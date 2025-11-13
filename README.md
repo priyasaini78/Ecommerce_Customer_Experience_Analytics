@@ -1,2 +1,41 @@
 # Ecommerce_Customer_Experience_Analytics
-This project focuses on enhancing customer experience in the E-commerce and delivery industry using text, social media, and web analytics.It includes five data-driven use cases — sentiment analysis, delivery performance analytics, churn prediction, topic modeling, and cart abandonment analysis .
+
+###  Project Overview
+This capstone project applies Text, Social Media, and Web Analytics techniques to the e-commerce and delivery industry. The goal is to enhance customer satisfaction, predict behavior, and improve operational efficiency through data-driven insights.
+
+###  Dataset
+- **File:** ecom_analytics_data_20000.xlsx  
+- **Size:** 20,000 rows  
+- **Features:** Customer reviews, ratings, delivery data, cart activity, purchase amount, category, and churn flag.
+
+###  Use Cases
+1. **Sentiment Analysis:** Analyze customer reviews using NLP to assess satisfaction.
+2. **Delivery Performance Analytics:** Identify delays and their impact on ratings.
+3. **Churn Prediction:** Predict repeat purchase likelihood using logistic regression.
+4. **Topic Modeling:** Discover major customer discussion themes using LDA.
+5. **Cart Abandonment Analysis:** Identify behavioral patterns behind incomplete checkouts.
+
+###  Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib, scikit-learn, NLTK, spaCy)
+- Jupyter Notebook
+- Excel (Data Preparation)
+- GitHub for Version Control
+
+### Methodology
+1. Data preprocessing (cleaning, feature engineering)
+2. Sentiment extraction and NLP processing
+3. Predictive modeling (classification)
+4. Topic modeling (LDA)
+5. Visualization and business insights
+
+###  Demo Video
+Watch the project demo: [Demo Link](#)
+
+
+### 🏁 Author
+**Priya Saini**  
+MBA (Business Analytics), University of Hyderabad  
+Course: BA304 - Text, Social Media & Web Analytics  
+Instructor: Ms. Sree Laxmi  
+
+
