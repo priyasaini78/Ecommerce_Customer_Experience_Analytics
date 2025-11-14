@@ -11,9 +11,9 @@ This capstone project applies Text, Social Media, and Web Analytics techniques t
 ###  Use Cases
 1. **Sentiment Analysis:** Analyze customer reviews using NLP to assess satisfaction.
 2. **Delivery Performance Analytics:** Identify delays and their impact on ratings.
-3. **Churn Prediction:** : Build a model to predict which customers are likely to stop purchasing using logistic regression.
+3. **Churn Prediction:**  Build a model to predict which customers are likely to stop purchasing using logistic regression.
 4. **Topic Modeling:** Identify main themes from customer feedback to understand pain points using LDA.
-5. **Cart Abandonment Analysis:** Identify behavioral patterns behind incomplete checkouts.
+5. **Cart Abandonment Analysis:** Explore factors influencing cart abandonment and suggest improvements.
 
 ###  Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, scikit-learn, NLTK, spaCy)
