@@ -29,7 +29,7 @@ This capstone project applies Text, Social Media, and Web Analytics techniques t
 5. Visualization and business insights
 
 ###  Demo Video
-Watch the project demo: [Demo Link](#)
+Watch the project demo: [https://github.com/priyasaini78/Ecommerce_Customer_Experience_Analytics/tree/main](#)
 
 
 ### 🏁 Author
