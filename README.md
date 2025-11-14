@@ -4,8 +4,8 @@
 This capstone project applies Text, Social Media, and Web Analytics techniques to the e-commerce and delivery industry. The goal is to enhance customer satisfaction, predict behavior, and improve operational efficiency through data-driven insights.
 
 ###  Dataset
-- **File:** ecom_analytics_data_20000.xlsx  
-- **Size:** 20,000 rows  
+- **File:** ecom_analytics_data.xlsx  
+- **Size:** 1183 rows  
 - **Features:** Customer reviews, ratings, delivery data, cart activity, purchase amount, category, and churn flag.
 
 ###  Use Cases
